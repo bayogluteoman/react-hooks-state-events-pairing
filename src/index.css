@@ -9,4 +9,18 @@ body {
 
 .App {
   text-align: center;
+  margin-top: 1rem;
+}
+
+.title {
+  font-size: 2.5rem;
+}
+
+.info {
+  font-size: 1.5rem;
+}
+
+.buttons {
+  height: 2rem;
+  margin-bottom: 1rem;
 }
